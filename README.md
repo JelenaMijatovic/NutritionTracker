@@ -1,9 +1,9 @@
 # Nutrition Tracker Android App
 
-| Contributor | Index |
-| ----------- | ----------- |
-| Jelena Mijatović | 114/21 RN |
-| Petar Stamenić | 77/21 RN |
+| Contributor | 
+| ----------- | 
+| Jelena Mijatović | 
+| Petar Stamenić |
 
 
 ## TODO
